@@ -3,10 +3,10 @@ name = "rustkeeper-test"
 version = "0.1.0"
 edition = "2021"
 description = "Testing helpers for the `rustkeeper` crate"
-homepage = "https://github.com/kaixinbaba/zookeeper-rs"
-repository = "https://github.com/kaixinbaba/zookeeper-rs"
+homepage = "https://github.com/kaixinbaba/rustkeeper"
+repository = "https://github.com/kaixinbaba/rustkeeper"
 documentation = "https://docs.rs/rustkeeper-test"
-license = "MIT"
+license = "GNU"
 rust-version = "1.70"
 
 [dependencies]
